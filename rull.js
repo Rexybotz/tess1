@@ -123,7 +123,7 @@ global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = 'https://chat.whatsapp.com/Jnn0MDnKDuA8Wojx2xG1CR'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
