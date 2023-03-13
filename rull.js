@@ -48,18 +48,18 @@ global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/message/'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['6282136421665', 'A-z  ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
-global.nomorown1 = ''
-global.nomorown2 = ''
-global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
-global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
+global.nomorbot = '6282136421665' //pasang no bot lo 
+global.nomorown = '6282136421665' //pasang no own lo
+global.nomorown1 = '6282136421665'
+global.nomorown2 = '6282136421665'
+global.nomorwa = '082136421665'
+global.nameown = 'A-z'
+global.gcname = 'Gabut 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Dibuat Oleh A-z'
 global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
 
@@ -97,7 +97,7 @@ global.nameown2 = '  ꩜'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 A-z'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname = wm
 global.watermark = wm
@@ -106,7 +106,7 @@ global.titlebot = namebot
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.stickpack = '/𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.stickauth = `BOT By ©𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗`
+global.stickauth = `BOT By ©Saeful`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -118,7 +118,7 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
+global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *A-z* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
 global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
